@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Dancing+Script&family=Fredoka+One&family=Just+Another+Hand&family=La+Belle+Aurore&family=Londrina+Solid:wght@100;400;900&family=Pacifico&family=Patrick+Hand&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Rampart+One&family=Stick+No+Bills:wght@800&family=Ubuntu:wght@400;700&display=swap');
+
+
+.main {
+  font-family: 'Poppins', sans-serif;
+
+  flex: 1;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.main h1 {
+  font-family: 'Stick No Bills', sans-serif;
+  margin-top: -80px;
+  font-weight: bold;
+  font-size: 6rem;
+}
+
+.main h1 span{
+  color: crimson;
+}
